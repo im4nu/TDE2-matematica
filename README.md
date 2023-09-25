@@ -1,6 +1,6 @@
-# TDE2-matematica
+<h1>TDE2-matematica</h1>
 
-# Olá, seja bem vindo. Aqui é um rápido tutorial de como rodar cada projeto dos 4.
+<h2> Olá, seja bem vindo. Aqui é um rápido tutorial de como rodar cada projeto dos 4. </h2>
 
 ° Realize a instalação do pip no seu s.o
 <br />
