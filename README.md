@@ -14,4 +14,5 @@
 ° Na minha máquina o comando acima só funcionou quando coloquei pyhton 3, ficando assim => python3 reflexao.py
 <br />
 <br />
-<img src="blob:https://web.whatsapp.com/a71bfac4-9229-4fb2-9e17-1a4d43199de7" />
+
+![image](https://github.com/im4nu/links-isabelly-estetica/assets/102077709/5f396e7c-a6c3-406a-bafd-1888ea96ac9d)
