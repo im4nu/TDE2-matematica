@@ -15,10 +15,10 @@
 <br />
 <br />
 
-![image](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)
+![image](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)
 <br />
-![image](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)https://github.com/im4nu/TDE2-matematica/blob/master/assets/rotacao.jpeg)
+![image](https://github.com/im4nu/TDE2-matematica/blob/master/assets/escala.jpeg)
 <br />
-![image](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)https://github.com/im4nu/TDE2-matematica/blob/master/assets/escala.jpeg)
+![image](https://github.com/im4nu/TDE2-matematica/blob/master/assets/rotacao.jpeg)
 <br />
-![image](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)https://github.com/im4nu/TDE2-matematica/blob/master/assets/reflexao.jpeg)
+![image](https://github.com/im4nu/TDE2-matematica/blob/master/assets/reflexao.jpeg)
