@@ -8,7 +8,6 @@
 ° Execute o comando abaixo para instalar as libs necessárias para rodar o projeto:
  - pip install matplotlib numpy
   <br />
-<br />
 ° Execute o comando ao lado => python nome_do_arquivo.py <= onde o nome_do_arquivo no caso dependeo do projeto, temos 4: Escala, Reflexão, Translação e Rotação. Então um exemplo é rodar => python escala.py 
 <br />
 <br />
