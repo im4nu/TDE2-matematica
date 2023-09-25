@@ -15,4 +15,10 @@
 <br />
 <br />
 
-![image](https://github.com/im4nu/links-isabelly-estetica/assets/102077709/5f396e7c-a6c3-406a-bafd-1888ea96ac9d)
+![image]([https://github.com/im4nu/links-isabelly-estetica/assets/102077709/5f396e7c-a6c3-406a-bafd-1888ea96ac9d](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)
+<br />
+![image]([https://github.com/im4nu/links-isabelly-estetica/assets/102077709/5f396e7c-a6c3-406a-bafd-1888ea96ac9d](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)https://github.com/im4nu/TDE2-matematica/blob/master/assets/rotacao.jpeg)
+<br />
+![image]([https://github.com/im4nu/links-isabelly-estetica/assets/102077709/5f396e7c-a6c3-406a-bafd-1888ea96ac9d](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)https://github.com/im4nu/TDE2-matematica/blob/master/assets/escala.jpeg)
+<br />
+![image]([https://github.com/im4nu/links-isabelly-estetica/assets/102077709/5f396e7c-a6c3-406a-bafd-1888ea96ac9d](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)https://github.com/im4nu/TDE2-matematica/blob/master/assets/reflexao.jpeg)
