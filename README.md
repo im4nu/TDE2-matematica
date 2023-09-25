@@ -14,6 +14,9 @@
 ° Na minha máquina o comando acima só funcionou quando coloquei pyhton 3, ficando assim => python3 reflexao.py
 <br />
 <br />
+° Abaixo seguem os gráficos
+<br />
+<br />
 
 ![image](https://github.com/im4nu/TDE2-matematica/blob/master/assets/translacao.jpeg)
 <br />
